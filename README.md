@@ -1,5 +1,6 @@
 # GO Lang - Learning
 
+<img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go Logo" width="100">
 ## Go's basic types are
 
  - bool
