@@ -1,9 +1,4 @@
-
-**
-
 # GO Lang - Learning
-
-**
 
 ## Go's basic types are
 
