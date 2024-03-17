@@ -7,7 +7,7 @@
 
 ## Go's basic types are
 
- bool
+ - bool
 - string
 - int  int8  int16  int32  int64
 - uint uint8 uint16 uint32 uint64 uintptr
@@ -116,3 +116,10 @@ func main() {
 	// fmt.Println(needInt(Big))
 }
 ```
+
+## Some online resources :
+
+ 1. https://go.dev/blog/playground
+ 2. https://go.dev/blog/declaration-syntax
+
+
